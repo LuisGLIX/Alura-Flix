@@ -1,6 +1,6 @@
 <h1 align="center">AluraFlix - Challenge React</h1>
 
-![Logo de AluraFlix](https://raw.githubusercontent.com/LuisGLIX/Alura-Flix/main/src/pages/BasePage/Logo.png)
+![Logo de AluraFlix](https://raw.githubusercontent.com/LuisGLIX/Alura-Flix/master/src/pages/BasePage/Logo.png)
 
 ## Índice
 
